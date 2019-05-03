@@ -10,7 +10,8 @@ import re
 PLUGIN_NAME         = 'Substance Painter 2019 to Autodesk Maya 2019 Arnold 5'
 PLUGIN_VERSION      = '1.1'
 ## Orignal Code by Mostafa Samir
-## Updated by Calvert
+## Updated by Calvert 
+## https://github.com/calvertcreates/substance-to-arnold
 
 class SubstanceImporter():
     def __init__(self):
